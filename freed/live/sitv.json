@@ -1,0 +1,562 @@
+{
+    "data": [
+        {
+            "name": "SiTV七彩戏剧",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",
+            "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227212/index.m3u8?servicetype=1",
+            "parse": false
+        },
+        {
+            "name": "SiTV七彩戏剧",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",
+            "url": "http://117.136.154.98/PLTV/88888888/224/3221225613/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV七彩戏剧",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",
+            "url": "http://ott.cqccn.com/PLTV/88888888/224/3221227670/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV七彩戏剧",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",
+            "url": "http://[2001:250:5405:13::47]/PLTV/2/224/3221226039/2.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV七彩戏剧",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",
+            "url": "http://111.20.106.16:6610/bestv/2/ch00000090990000001125/index.m3u8?&virtualDomain=bestv.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "SiTV七彩戏剧",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",
+            "url": "http://itv.ahau.edu.cn/PLTV/2/224/3221226039/2.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV东方财经",
+            "pic": "",
+            "url": "http://springrain.top/shuliyun.php?id=106",
+            "parse": false
+        },
+        {
+            "name": "SiTV东方财经",
+            "pic": "",
+            "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227087/index.m3u8?servicetype=1",
+            "parse": false
+        },
+        {
+            "name": "SiTV东方财经",
+            "pic": "",
+            "url": "http://117.136.154.98/PLTV/88888888/224/3221225612/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV东方财经",
+            "pic": "",
+            "url": "http://ott.cqccn.com/PLTV/88888888/224/3221227580/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV东方财经",
+            "pic": "",
+            "url": "http://[2001:250:5405:13::47]:82/PLTV/88888888/224/3221225667/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV东方财经",
+            "pic": "",
+            "url": "http://[2001:250:5405:13::47]/PLTV/2/224/3221226033/2.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV全纪实",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",
+            "url": "http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8?zshangd",
+            "parse": false
+        },
+        {
+            "name": "SiTV全纪实",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",
+            "url": "http://39.134.19.251:6610/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "SiTV全纪实",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",
+            "url": "http://183.207.249.175/ott.js.chinamobile.com/PLTV/3/224/3221227771/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV全纪实",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",
+            "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV全纪实",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",
+            "url": "http://ott.mobaibox.com/PLTV/3/224/3221227771/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV全纪实",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",
+            "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1",
+            "parse": false
+        },
+        {
+            "name": "SiTV动漫秀场",
+            "pic": "",
+            "url": "http://ott.mobaibox.com/PLTV/3/224/3221227774/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV动漫秀场",
+            "pic": "",
+            "url": "http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900156.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV动漫秀场",
+            "pic": "",
+            "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1",
+            "parse": false
+        },
+        {
+            "name": "SiTV动漫秀场",
+            "pic": "",
+            "url": "http://springrain.top/shuliyun.php?id=104",
+            "parse": false
+        },
+        {
+            "name": "SiTV动漫秀场",
+            "pic": "",
+            "url": "http://hdtv.lzu6.edu.cn/hls/hls184a636.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV动漫秀场",
+            "pic": "",
+            "url": "http://117.136.154.94/PLTV/88888888/224/3221225845/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV劲爆体育",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg",
+            "url": "http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900153.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV劲爆体育",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg",
+            "url": "http://springrain.top/shuliyun.php?id=101",
+            "parse": false
+        },
+        {
+            "name": "SiTV劲爆体育",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg",
+            "url": "http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000152.m3u8&ts=50&auth=no",
+            "parse": false
+        },
+        {
+            "name": "SiTV劲爆体育",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg",
+            "url": "http://ott.cqccn.com/PLTV/88888888/224/3221227511/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV劲爆体育",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg",
+            "url": "http://[2001:250:5405:13::47]/PLTV/2/224/3221226045/2.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV劲爆体育",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg",
+            "url": "http://111.20.106.16:6610/bestv/2/ch00000090990000001129/index.m3u8?&virtualDomain=bestv.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "SiTV幸福彩",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/xingfucai.png",
+            "url": "http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900155.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV幸福彩",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/xingfucai.png",
+            "url": "http://183.207.255.188/live/program/live/xfchd/2300000/mnf.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV幸福彩",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/xingfucai.png",
+            "url": "http://springrain.top/shuliyun.php?id=142",
+            "parse": false
+        },
+        {
+            "name": "SiTV幸福彩",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/xingfucai.png",
+            "url": "http://[2001:250:5405:13::47]/ott.js.chinamobile.com/PLTV/3/224/3221227447/1.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV幸福彩",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/xingfucai.png",
+            "url": "http://cg6.hunancatv.cn:9090/live/XFC.m3u8?ci=123",
+            "parse": false
+        },
+        {
+            "name": "SiTV幸福彩",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/xingfucai.png",
+            "url": "http://itv.ahau.edu.cn/ott.js.chinamobile.com/PLTV/3/224/3221227447/1.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV新视觉",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",
+            "url": "http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000114.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV新视觉",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",
+            "url": "http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226237/1/index.m3u8?fmt=ts2hls",
+            "parse": false
+        },
+        {
+            "name": "SiTV新视觉",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",
+            "url": "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=75&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1",
+            "parse": false
+        },
+        {
+            "name": "SiTV新视觉",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",
+            "url": "http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43082/1300.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV新视觉",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",
+            "url": "http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43082/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV新视觉",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",
+            "url": "http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43082/2300.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV极速汽车",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",
+            "url": "http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900148.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV极速汽车",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",
+            "url": "http://111.20.105.60:6060/yinhe/2/ch00000090990000002286/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "SiTV极速汽车",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",
+            "url": "http://111.20.105.60:6060/yinhe/2/ch00000090990000002263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "SiTV极速汽车",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",
+            "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226574/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV极速汽车",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",
+            "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV极速汽车",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",
+            "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227186/index.m3u8?servicetype=1",
+            "parse": false
+        },
+        {
+            "name": "SiTV欢笑剧场",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",
+            "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV欢笑剧场",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",
+            "url": "http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV欢笑剧场",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",
+            "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/hxjc-4k_8000.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV欢笑剧场",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",
+            "url": "http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8?zshangd",
+            "parse": false
+        },
+        {
+            "name": "SiTV欢笑剧场",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",
+            "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1",
+            "parse": false
+        },
+        {
+            "name": "SiTV欢笑剧场",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",
+            "url": "http://[2409:8087:1070:301:2028::13]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225954/index.m3u8?fmt=ts2hls",
+            "parse": false
+        },
+        {
+            "name": "SiTV法治天地",
+            "pic": "",
+            "url": "http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls",
+            "parse": false
+        },
+        {
+            "name": "SiTV法治天地",
+            "pic": "",
+            "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227176/index.m3u8?servicetype=1",
+            "parse": false
+        },
+        {
+            "name": "SiTV法治天地",
+            "pic": "",
+            "url": "http://hdtv.lzu6.edu.cn/hls/hls184a89.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV法治天地",
+            "pic": "",
+            "url": "http://117.136.154.98/PLTV/88888888/224/3221225609/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV法治天地",
+            "pic": "",
+            "url": "http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225831/1.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV法治天地",
+            "pic": "",
+            "url": "http://ott.cqccn.com/PLTV/88888888/224/3221227673/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV游戏风云",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png",
+            "url": "http://ott.mobaibox.com/PLTV/3/224/3221227713/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV游戏风云",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png",
+            "url": "http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900157.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV游戏风云",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png",
+            "url": "http://111.20.105.60:6060/yinhe/2/ch00000090990000002306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "SiTV游戏风云",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png",
+            "url": "http://111.20.105.60:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "SiTV游戏风云",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png",
+            "url": "http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls",
+            "parse": false
+        },
+        {
+            "name": "SiTV游戏风云",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png",
+            "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1",
+            "parse": false
+        },
+        {
+            "name": "SiTV生活时尚",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png",
+            "url": "http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900151.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV生活时尚",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png",
+            "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1",
+            "parse": false
+        },
+        {
+            "name": "SiTV生活时尚",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png",
+            "url": "http://hdtv.lzu6.edu.cn/hls/hls184a91.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV生活时尚",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png",
+            "url": "http://117.136.154.74/PLTV/88888888/224/3221225838/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV生活时尚",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png",
+            "url": "http://117.136.154.98/PLTV/88888888/224/3221225604/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV生活时尚",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png",
+            "url": "http://111.20.106.16:6610/bestv/2/ch00000090990000001369/index.m3u8?&virtualDomain=bestv.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "SiTV都市剧场",
+            "pic": "",
+            "url": "http://ott.mobaibox.com/PLTV/3/224/3221227710/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV都市剧场",
+            "pic": "",
+            "url": "http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900149.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV都市剧场",
+            "pic": "",
+            "url": "http://111.20.105.60:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "SiTV都市剧场",
+            "pic": "",
+            "url": "http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226243/1/index.m3u8?fmt=ts2hls",
+            "parse": false
+        },
+        {
+            "name": "SiTV都市剧场",
+            "pic": "",
+            "url": "http://117.136.154.74/PLTV/88888888/224/3221225843/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV都市剧场",
+            "pic": "",
+            "url": "http://117.136.154.98/PLTV/88888888/224/3221225606/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV金色学堂",
+            "pic": "",
+            "url": "http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1",
+            "parse": false
+        },
+        {
+            "name": "SiTV金色学堂",
+            "pic": "",
+            "url": "http://[2409:8087:1020:301:2026::20]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225694/index.m3u8?fmt=ts2hls",
+            "parse": false
+        },
+        {
+            "name": "SiTV金色学堂",
+            "pic": "",
+            "url": "http://live.cooltv.top/tv/yqdtv.php?id=109",
+            "parse": false
+        },
+        {
+            "name": "SiTV金色频道",
+            "pic": "",
+            "url": "http://hdtv.lzu6.edu.cn/hls/hls184a90.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV金色频道",
+            "pic": "",
+            "url": "http://117.136.154.98/PLTV/88888888/224/3221225803/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV金色频道",
+            "pic": "",
+            "url": "http://111.20.106.16:6610/bestv/2/ch00000090990000001374/index.m3u8?&virtualDomain=bestv.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "SiTV金色频道",
+            "pic": "",
+            "url": "http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000065.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV金色频道",
+            "pic": "",
+            "url": "http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226149/1.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV金色频道",
+            "pic": "",
+            "url": "http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226149/2.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV魅力足球",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png",
+            "url": "http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R601F51ABU30989182K7769060BI183360DFPBM3222C25V1020DZ9C465W16615682404EF1EB&playtoken=31648YBGNZQKEGQ10&rate=org&programid=4200900154.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV魅力足球",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png",
+            "url": "http://183.207.255.188/live/program/live/mlyyhd/2300000/mnf.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV魅力足球",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png",
+            "url": "http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000154.m3u8&ts=50&auth=no",
+            "parse": false
+        },
+        {
+            "name": "SiTV魅力足球",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png",
+            "url": "http://ott.cqccn.com/PLTV/88888888/224/3221227588/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "SiTV魅力足球",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png",
+            "url": "http://cg6.hunancatv.cn:9090/live/MLYY.m3u8?ci=123",
+            "parse": false
+        },
+        {
+            "name": "SiTV魅力足球",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png",
+            "url": "http://localhost:port/udp/239.93.1.153:5140",
+            "parse": false
+        }
+    ]
+}

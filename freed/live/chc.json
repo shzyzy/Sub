@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "name": "CHC动作电影",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",
+            "url": "http://39.134.19.252:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "CHC动作电影",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",
+            "url": "http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8",
+            "parse": false
+        },
+        {
+            "name": "CHC动作电影",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",
+            "url": "http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8",
+            "parse": false
+        },
+        {
+            "name": "CHC动作电影",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",
+            "url": "http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "CHC动作电影",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",
+            "url": "http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8",
+            "parse": false
+        },
+        {
+            "name": "CHC动作电影",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",
+            "url": "http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "CHC家庭影院",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",
+            "url": "http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "CHC家庭影院",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",
+            "url": "http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "CHC家庭影院",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",
+            "url": "http://39.134.18.69/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8",
+            "parse": false
+        },
+        {
+            "name": "CHC家庭影院",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",
+            "url": "http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "CHC家庭影院",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",
+            "url": "http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "CHC家庭影院",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",
+            "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8",
+            "parse": false
+        },
+        {
+            "name": "CHC高清电影",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",
+            "url": "http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com",
+            "parse": false
+        },
+        {
+            "name": "CHC高清电影",
+            "pic": "http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",
+            "url": "http://live.cooltv.top/tv/aishang.php?id=chcgqdy",
+            "parse": false
+        }
+    ]
+}
